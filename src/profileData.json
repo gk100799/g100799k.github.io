@@ -1,0 +1,88 @@
+{
+    "landing": {
+        "firstName": "Gopal Krishna",
+        "lastName": "S",
+        "phoneNumber": "+91-7406058845",
+        "bio": "I am in my final year of Engineering. Currently I am working at Cimpress India as a Software Development Engineer Intern. Always on lookout for opportunities to utilize my skills and achieve personal and professional growth while being resourceful, innovative and dynamic in my work that leads to a learning experience.",
+        "email": "gopalk.jagannath@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/gopal-krishna-s-279014174/",
+        "github": "https://github.com/gk100799"
+    },
+    "experience": [
+        {
+            "position": "Software Development Engineer Intern",
+            "organization": "Cimpress India",
+            "aboutWorkBeforeLink": "I am working as a Full-Stack Developer on several microservices applications that are used by all the Cimpress owned e-commerce businesses. ReactJs and ExpressJs are the Technologies that I mostly work on. I have also got exposure to AWS, Date Warehouse and CI/CD Pipelines.",
+            "fromDate": "Mar 2021",
+            "toDate": "Present"
+        },
+        {
+            "position": "Software Development Engineer Intern",
+            "organization": "Yobny Tech",
+            "aboutWorkBeforeLink": "Worked on a Queue Management System that will help organizations and individuals to setup Digital Queues and provides ways to onboard and engage with customers and visitors. My role was to build this product all the way from scratch using technologies like ReactJs, Redux, Thunk.",
+            "linkData": {
+                "message": "The Product is available as a prototype at",
+                "name": "easymeet.app",
+                "url": "https://easymeet.app"
+            },
+            "fromDate": "Nov 2020",
+            "toDate": "Jan 2021"
+        }
+        
+    ],
+    "education": [
+        {
+            "university": "Bangalore Institute of Technology",
+            "degree": "Bachelor of Engineering in Information Science",
+            "gpa": "C.G.P.A : 8.27 (Till 7th Sem)",
+            "fromDate": "2017",
+            "toDate": "- 2021",
+            "location" : "Bangalore, India"
+        },
+        {
+            "university": "Gurukul Independent P.U. College",
+            "degree": "12th Standard | Karnataka State Board ",
+            "gpa": "87.83%",
+            "fromDate": "2017",
+            "toDate": "",
+            "location" : "Gulbarga, India"
+        },
+        {
+            "university": "Mount Carmel Convent School",
+            "degree": "10th Standard | Karnataka State Board ",
+            "gpa": "86.88%",
+            "fromDate": "2015",
+            "toDate": "",
+            "location" : "Gulbarga, India"
+        }  
+    ],
+
+    "skills": [
+        
+    ],
+
+    "interests": {
+        "paragraphOne": "Apart from being a software developer, I enjoy playing outdoor sports like Cricket, Volleyball and many more. I'm always curious about anything that crosses my ears and so I'm a constant learner.",
+        "paragraphTwo": "When forced indoors, I watch thriller Movies or Series. I try to be as efficient as possible in everything I do and that's been one of my hobby."
+    },
+
+    "awards": [
+        {
+            "awardDetail": "Python 5 ⭐ Gold Badge on Hackerrank - ",
+            "linkDetails": {
+                "message": "here",
+                "url": "https://www.hackerrank.com/gopalk_jagannath?hr_r=1"
+            }
+        },
+        {
+            "awardDetail": "Semi Finalist in Inter Department Volleyball tournament."
+        },
+        {
+            "awardDetail": "2 times Silver medalist in Long Jump."
+        },
+        {
+            "awardDetail": "Secured 98% marks in Class XII Mathematics board exams."
+        }       
+    ]
+
+}
